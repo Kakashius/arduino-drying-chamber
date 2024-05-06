@@ -9,6 +9,9 @@
 4) LiquidCrystal_I2C v1.1.2 от Frank de Brabander - для экрана;
 5) Servo v1.2.1 от Michael Margolis Arduinov - для сервоприводов;
 6) DHT11 v2.1.0 от Dhruba Saha - для влажности/температуры.
+7) Arduino PID Library v1.2.1 от Brett Beauregard - для ПИД-регулирования
+8) AsyncStream - чтение с ПК
+9) Parser - парсинг с ПК
 
 Используемые элементы системы управления сушильной камеры:
 1) ТЕРМОПАРА	MAX6675K - 1 ШТ.;
